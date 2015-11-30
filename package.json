@@ -1,0 +1,17 @@
+{
+  "name": "gulp-assets-grabber",
+  "version": "1.0.0",
+  "description": "Grab assets from html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "0.0.2",
+    "gulp-util": "^3.0.7",
+    "path": "^0.12.7",
+    "through": "^2.3.8"
+  }
+}
